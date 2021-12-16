@@ -1,5 +1,8 @@
 # Hi, I'm Bárbara Santos!
 
+
+
+
 ## Who am I?
 
 - 💻 Full Stack Web Developer
@@ -14,10 +17,10 @@
 - 🔮 AJAX
 - 🗄  SQL
 - :elephant: PostgreSQL
-- :atom: Reacty (coming soon)
 - 🎨 CSS
 - ⚡ JAVASCRIPT
 - 🎁 APIs
+- :atom: Reacty (coming soon)
 
 ## Languages:
 
@@ -27,5 +30,8 @@
 
 ## Find me around the world 🌎
 
-- Facebook
-- [Linkedin]https://www.linkedin.com/in/b%C3%A1rbarasant0s/
+<div>
+  <a href="https://www.linkedin.com/in/b%C3%A1rbarasant0s/" target="linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+ 
+ ![Snake animation](https://github.com/Santos1000/Santos1000/blob/output/github-contribution-grid-snake.svg)
