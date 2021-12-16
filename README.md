@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi, I'm Bárbara Santos!
 
-<!--
-**Santos1000/Santos1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
 
-Here are some ideas to get you started:
+- 💻 Full Stack Web Developer
+- 📚 I just did a bootcamp - Le Wagon - Rio de Janeiro
+- 👩‍🎓 Bachelor of Architecture and Urbanism - FISS (Brazil)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills 👩‍💻
+
+- 💎 RUBY
+- 🧮 JSON
+- 🔮 AJAX
+- 🗄  SQL
+- :elephant: PostgreSQL
+- :atom: Reacty (coming soon)
+- 🎨 CSS
+- ⚡ JAVASCRIPT
+- 🎁 APIs
+
+## Languages:
+
+- Portuguese (native)
+- English (intermediary)
+
+
+## Find me around the world 🌎
+
+- Facebook
+- [Linkedin]https://www.linkedin.com/in/b%C3%A1rbarasant0s/
