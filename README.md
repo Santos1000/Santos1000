@@ -20,7 +20,7 @@
 - 🎨 CSS
 - ⚡ JAVASCRIPT
 - 🎁 APIs
-- :atom: Reacty
+- :atom: React
 
 ## Languages:
 
