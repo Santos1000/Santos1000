@@ -10,7 +10,7 @@
 - 👩‍🎓 Bachelor of Architecture and Urbanism - FISS (Brazil)
 
 
-## Skills 👩‍💻
+## Skills
 
 - 💎 RUBY
 - 🧮 JSON
