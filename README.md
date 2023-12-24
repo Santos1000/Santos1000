@@ -6,8 +6,8 @@
 ## Who am I?
 
 - 💻 Full Stack Web Developer
-- 📚 I just did a bootcamp - Le Wagon - Rio de Janeiro
-- 👩‍🎓 Bachelor of Architecture and Urbanism - FISS (Brazil)
+- 📚 Bootcamp - Le Wagon 
+- 👩‍🎓 Bachelor of Architecture and Urbanis - PUC (Brazil)
 
 
 ## Skills
