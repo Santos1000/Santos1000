@@ -7,11 +7,13 @@
 
 - 💻 Full Stack Web Developer
 - 📚 Bootcamp - Le Wagon 
-- 👩‍🎓 Bachelor of Architecture and Urbanis - PUC (Brazil)
+- 👩‍🎓 Bachelor of Systems Analysis and Development - Anhaguera (in progress)
+- 👩‍🎓 Bachelor of Architecture - PUC 
 
 
 ## Skills
 
+- 🔫 NODE
 - 💎 RUBY
 - 🧮 JSON
 - 🔮 AJAX
