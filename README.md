@@ -7,7 +7,7 @@
 
 - 💻 Full Stack Web Developer
 - 📚 Bootcamp - Le Wagon 
-- 👩‍🎓 Bachelor of Systems Analysis and Development - Anhaguera (in progress)
+- 👩‍🎓 Bachelor of Systems Analysis and Development - Anhanguera
 - 👩‍🎓 Bachelor of Architecture - PUC 
 
 
